@@ -1,5 +1,5 @@
 ---
-title: Astrology 占星網
+title: Astrology
 white_header: true
 sections:
   - type: hero_section
