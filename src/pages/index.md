@@ -1,5 +1,5 @@
 ---
-title: HAㄗㄟe
+title: Astrology
 white_header: true
 sections:
   - type: hero_section
